@@ -22,7 +22,7 @@
     "express-session": "^1.15.6",
     "fluent-ffmpeg": "^2.1.2",
     "jsonschema": "1.2.0",
-    "moment-timezone": "0.5.13",
+    "moment-timezone": "0.5.28",
     "node-json-db": "0.7.3",
     "printf": "^0.5.1",
     "ps-find": "1.1.0",
